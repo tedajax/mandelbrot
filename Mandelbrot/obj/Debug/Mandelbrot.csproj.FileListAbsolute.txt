@@ -1,0 +1,10 @@
+c:\users\ted\documents\visual studio 2012\Projects\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.csprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2012\Projects\Mandelbrot\Mandelbrot\bin\Mandelbrot.dll
+c:\users\ted\documents\visual studio 2012\Projects\Mandelbrot\Mandelbrot\bin\Mandelbrot.pdb
+c:\users\ted\documents\visual studio 2012\Projects\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.dll
+c:\users\ted\documents\visual studio 2012\Projects\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.pdb
+C:\Users\Ted\Projects\Mandelbrot\Mandelbrot\bin\Mandelbrot.dll
+C:\Users\Ted\Projects\Mandelbrot\Mandelbrot\bin\Mandelbrot.pdb
+C:\Users\Ted\Projects\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.csprojResolveAssemblyReference.cache
+C:\Users\Ted\Projects\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.dll
+C:\Users\Ted\Projects\Mandelbrot\Mandelbrot\obj\Debug\Mandelbrot.pdb
